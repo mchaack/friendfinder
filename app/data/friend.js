@@ -3,7 +3,7 @@
 var friendList = [
   {
     name: 'Meg',
-    profilePic: '',
+    profilePic: 'https://eatliver.b-cdn.net/wp-content/uploads/2017/03/cards-against-humanity1.jpg',
     scores: [
       "3",
       "1",
